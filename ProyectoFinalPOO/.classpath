@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="respaldo"/>
+	<classpathentry kind="lib" path="Librerias/mssql-jdbc-12.2.0.jre8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
